@@ -6,6 +6,8 @@ int main()
 		cout<<"Value of a is :"<<a<<endl;
 		c=++a;
 		cout<<"New value of a is :"<<c<<endl;
+		c=a++
+		cout<<"Now value of a is :"<<c<<endl;	
 		return(0);
 	}
 
